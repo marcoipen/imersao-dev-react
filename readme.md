@@ -1,3 +1,6 @@
+Criado pelo ChatGPT "crie um markdown destes códigos no github, para ser usado com Readme.md"
+
+
 # Imersão | Bandas
 
 Este é um projeto simples de demonstração de bandas usando React.
